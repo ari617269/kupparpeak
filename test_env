@@ -1,0 +1,4 @@
+PORT=3000
+HOST=localhost
+CLIENT_ID=com.example.client.id
+REDIRECT_URI=uri.redirect.example.com
